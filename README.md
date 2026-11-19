@@ -2,7 +2,11 @@
 
 PortKeeper is a macOS menu bar app that shows which programs are listening for local TCP connections and lets you stop a development server you started. It stays on your Mac. There is no account and no extra package to install.
 
-## What you need
+## Download
+
+You can install and use PortKeeper without building it. Download [PortKeeper-0.1.6.zip](https://github.com/etc11/PortKeeper/releases/tag/v0.1.6). Unzip it and move PortKeeper.app to Applications. You need macOS 14 or newer.
+
+## What you need to build
 
 macOS 14 or newer, and Xcode or the Swift command-line tools.
 
