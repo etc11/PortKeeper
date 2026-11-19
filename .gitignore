@@ -1,0 +1,8 @@
+.build/
+dist/
+*.app
+*.dSYM
+.DS_Store
+Tests/
+scripts/
+*.log
